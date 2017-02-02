@@ -1,0 +1,67 @@
+#+TITLE:     Interactive Music - Week 2 - Artist Manifesto
+#+AUTHOR:    Michael Simpson
+#+EMAIL:     mgsimpson@gmail.com
+#+OPTIONS: H:2 num:nil toc:nil \n:nil @:t ::t |:t ^:{} _:{} *:t TeX:t LaTeX:t
+
+* Artist Manifesto
+
+:PROPERTIES: 
+:UPDATED: <2017-01-29 Sun>
+:RELEASE: 0.0.1
+:END:
+
+This document is a work in progress whose evolution will be recorded on github.
+
+I am in pursuit of a technique that allows me to seamlessly combine my multidisciplinary sensibilities and skills into a form of honest expression. The ethos of my work is derivative of my own values/ideas and the inspirations I have found in music, art, contemporary philosophy, architecture/design, and science. Some people who have been remarkably influential to me and my ideas:
+
+** Architecture
+*** Christopher Alexander - A Pattern Language, Notes on the Synthesis of Form
+*** Peter Zumthor - Atmosphere is everthing.
+** Philosophy
+*** John Dewey - Pragmatism
+*** Bruno Latour - Actor/Network Theory, the far reaching context of a thing is fundamental to understanding that thing.
+*** Gilles Deleuze - Real/Virtual, Rhizome, Immanence
+** Music
+*** Iannis Xenakis
+*** Igor Stravinsky
+*** Marmorou Fujieda
+*** Ikeda Ryoji - Ability to create beautiful things with very sharp components
+
+I am committed to an antidisciplinary approach which involves a research-based practice without conerning for disciplinary boundaries. I believe that the most salient ground is the ground along the periphery and overlap of tangential (or not even) disciplines. Working in these areas provides me with a fertile ground for the emergence of ideas. The Deleuzian characterization of a rhizome growing in the most advantageous direction at any given time is a good analogy for how I see my own strategy for research and practice, highly adaptive but rigorous and exhaustive. 
+
+While continuing on this path, I hope to create tools for myself and others that will facilitate more expressive means of communicating through various or mixed media.
+
+----
+
+Additional Inspirations
+
+* Inspirations
+** Free Jazz  
+*** of territory Organic and allowed to evolve freely.
+
+** A Pattern Language
+*** Christopher Alexander
+**** Patterns underly everything. There are good patterns and bad patterns. Find the good ones and rely on them.
+
+* Good sensibilities are the foundation for good design, in any medium.
+
+* Lines of Flight
+** Gilles Deleuze & Felix Guattari
+*** My work is informed by my research and the discovery process is a means to guiding the research.
+
+* Mostly The Voice
+** Emotionally touching work, makes people feel good, feel comfortable, feel happy, feel goodsad.
+
+* Organic / Generative
+** Form: The context are used to derive the works grammar.
+
+* Adaptive / Free
+** I've been inspired by the jazz movement, sample based music .
+
+* Descriptors
+
+* Minimal
+* Sharp
+* Serene
+* Warm
+* Infinity
