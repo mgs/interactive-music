@@ -10,6 +10,29 @@
 :RELEASE: 0.0.1
 :END:
 
+expression that allows for 
+
+There is a sensation when we experience something so Awesome
+
+"Atmosphere is everything."
+
+I think 
+
+I believe that our environments (micro and macro) play fundamental roles influencing the statee of our human condition. Atmosphere is a conglomeration of the forces around us, real and virtual. Some of these forces are easily apparent, others might be harder to see, woven so deeply into the fabric.
+
+"A Pattern Language"
+
+A Pattern Language
+
+The answer, to me, is to build this thing one part at a time. 
+Build things that are extensible and modular.
+
+My quantitative
+
+
+I want to create atmospheres. By atmospheres, I am referring to spaces in place and time whose features (eg. architecture, light, sound) are contributing or creating  
+
+I hope that my work could be seen as a curation of gestures that reflect my emotion and intention and process that form their foundation.
 This document is a work in progress whose evolution will be recorded on github.
 
 I am in pursuit of a technique that allows me to seamlessly combine my multidisciplinary sensibilities and skills into a form of honest expression. The ethos of my work is derivative of my own values/ideas and the inspirations I have found in music, art, contemporary philosophy, architecture/design, and science. Some people who have been remarkably influential to me and my ideas:
@@ -19,18 +42,6 @@ I am in pursuit of a technique that allows me to seamlessly combine my multidisc
 *** Peter Zumthor - Atmosphere is everthing.
 ** Philosophy
 *** John Dewey - Pragmatism
-*** Bruno Latour - Actor/Network Theory, the far reaching context of a thing is fundamental to understanding that thing.
-*** Gilles Deleuze - Real/Virtual, Rhizome, Immanence
-** Music
-*** Iannis Xenakis
-*** Igor Stravinsky
-*** Marmorou Fujieda
-*** Ikeda Ryoji - Ability to create beautiful things with very sharp components
-
-I am committed to an antidisciplinary approach which involves a research-based practice without conerning for disciplinary boundaries. I believe that the most salient ground is the ground along the periphery and overlap of tangential (or not even) disciplines. Working in these areas provides me with a fertile ground for the emergence of ideas. The Deleuzian characterization of a rhizome growing in the most advantageous direction at any given time is a good analogy for how I see my own strategy for research and practice, highly adaptive but rigorous and exhaustive. 
-
-While continuing on this path, I hope to create tools for myself and others that will facilitate more expressive means of communicating through various or mixed media.
-
 ----
 
 Additional Inspirations
